@@ -1,4 +1,4 @@
-classes=12
-train=../train/images/train_images.txt
-valid=../valid/images/valid_images.txt
-names=../train/data.names
+classes=8
+train=train/images/train_images.txt
+valid=valid/images/valid_images.txt
+names=train/data.names
